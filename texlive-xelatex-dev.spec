@@ -1,6 +1,6 @@
 Name:		texlive-xelatex-dev
 Version:	62145
-Release:	1
+Release:	2
 Summary:	
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/xelatex-dev
