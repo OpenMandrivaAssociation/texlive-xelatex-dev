@@ -3,7 +3,7 @@ Version:	62145
 Release:	2
 Summary:	
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/xelatex-dev
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/xelatex-dev
 License:	
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/xelatex-dev.r%{version}.tar.xz
 BuildArch:	noarch
